@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Alumni Platform - CodeWords Backend
 
 ## 🎓 SIH25017: Digital Platform for Alumni Data Management
@@ -44,8 +44,4 @@ curl -X POST https://runtime.codewords.ai/run/alumni_profile_manager_ab62a44e \
 - **Backend Dev**: Maintain services (see team-guides/)  
 - **Engagement Lead**: Use analytics & newsletters (see team-guides/)
 
----
-**Questions?** Contact via https://codewords.agemo.ai support
-=======
-# Alumini-management
->>>>>>> f26dea3c892cc17174ac5c1a96c3eeee3178aee7
+
