@@ -1,0 +1,2 @@
+codewords-client==0.4.0
+fastapi==0.116.1
